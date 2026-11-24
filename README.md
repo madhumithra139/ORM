@@ -47,7 +47,8 @@ admin.site.register(Car, CarAdmin)deddes
 
 
 ## OUTPUT
-![alt text](<Screenshot 2026-11-24 141542.png>)
+<img width="935" height="465" alt="Screenshot 2026-11-24 141542" src="https://github.com/user-attachments/assets/76b20e62-1d2e-452b-86b5-1f844d646634" />
+
 
 
 
